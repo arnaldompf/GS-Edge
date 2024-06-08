@@ -23,6 +23,8 @@ Na ultima modificação, foi colocado um sensor de inclinação que detecta se o
 
 Pode ser utilizado em um simulador, como o thinkercad ou em uma placa arduino real.
 
+Para visualizar o projeto feito no simulador, aperte [aqui](https://www.tinkercad.com/things/fj3KfIPO0g1-global-solution).
+
 ## Contribuições
 
 As contribuições são o que tornam a comunidade open-source um lugar tão incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas**.
