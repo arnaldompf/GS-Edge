@@ -1,5 +1,3 @@
-# GS-Edge
-
 # PoseiDrone
 
 ## Sobre o Projeto
